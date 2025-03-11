@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Farhana H
-Roll no :212223230057
-Date of experiment :11-03-2025
+### Name : Farhana H
+### Roll no :212223230057
+### Date of experiment :11-03-2025
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
