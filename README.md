@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT 01 ALP FOR 8086
 ### Name : Farhana H
 ### Roll no :212223230057
 ### Date of experiment :11-03-2025
